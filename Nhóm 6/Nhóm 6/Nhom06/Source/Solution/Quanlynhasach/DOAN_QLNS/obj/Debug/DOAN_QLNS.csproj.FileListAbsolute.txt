@@ -1,0 +1,290 @@
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\bin\Debug\DOAN_QLNS.exe.config
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\bin\Debug\DOAN_QLNS.exe
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\bin\Debug\DOAN_QLNS.pdb
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\obj\Debug\DOAN_QLNS.csprojResolveAssemblyReference.cache
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmAdmin.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmCapNhatDSNV.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmCapNhatKhachHang.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmCapNhatTheLoaiSach.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmChangePassword.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmKhachHang.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmLogin.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmNhanVien.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmThayDoiQuyDinh.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTheLoaiSach.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\obj\Debug\DOAN_QLNS.Properties.Resources.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\obj\Debug\DOAN_QLNS.csproj.GenerateResource.Cache
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\obj\Debug\DOAN_QLNS.exe.licenses
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\obj\Debug\DOAN_QLNS.exe
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\obj\Debug\DOAN_QLNS.pdb
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTuSachCNTT.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmNuoiDayCon.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTuSach.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTuSachKinhDi.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTuSachKinhTe.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTuSachKyNang.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTuSachNauAn.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTuSachTamLy.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTuSachThieuNhi.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTuSachTieuThuyet.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTuSachTruyenNgan.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\obj\Debug\DOAN_QLNS.Lang.langVn.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\obj\Debug\DOAN_QLNS.Lang.langEn.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmLapPhieuNhap.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmCapNhapNCC.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmNhaCungCap.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmSach_KH.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmSach_User.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTacGia_KH.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmManHinhMoDau.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmNhaXuatBan.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmCapNhatNhaXuatBan.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmSachDaMua.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmCapNhatTacGia.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTacGia_User.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmThongTinPNS.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmBaoCaoTon.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\obj\Debug\RdlCompile.cache
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\obj\Debug\RdlCompile.compiled
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmBaoCaoNo.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmCapNhapPhieuNhapSach.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmPhieuThuTien.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmDSPhieuThuTien.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmCapNhatNgayLapPhieu.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmDanhSachPhieuNhap.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmHoaDonBS.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmThongTinHDBS.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmReportPhieuThuTien.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS\DOAN_QLNS\obj\Debug\DOAN_QLNS.frm_Report_HDBS.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\bin\Debug\DOAN_QLNS.exe.config
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\obj\Debug\DOAN_QLNS.exe
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\obj\Debug\DOAN_QLNS.pdb
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\bin\Debug\DOAN_QLNS.exe
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\bin\Debug\DOAN_QLNS.pdb
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\obj\Debug\DOAN_QLNS.csprojResolveAssemblyReference.cache
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmAdmin.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmCapNhapNCC.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmCapNhatDSNV.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmCapNhatKhachHang.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmCapNhatTheLoaiSach.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmCapNhatNhaXuatBan.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmCapNhatTacGia.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmCapNhatNgayLapPhieu.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmDanhSachPhieuNhap.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmDSPhieuThuTien.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmHoaDonBS.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmPhieuThuTien.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmReportPhieuThuTien.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmThongTinHDBS.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\obj\Debug\DOAN_QLNS.frm_Report_HDBS.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmBaoCaoNo.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmBaoCaoTon.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmCapNhapPhieuNhapSach.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmChangePassword.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmKhachHang.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmLapPhieuNhap.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmLogin.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmManHinhMoDau.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmNhaCungCap.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmNhanVien.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmNhaXuatBan.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmSachDaMua.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTacGia_User.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmThongTinPNS.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmNuoiDayCon.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmSach_KH.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmSach_User.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTacGia_KH.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmThayDoiQuyDinh.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTheLoaiSach.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTuSach.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTuSachCNTT.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTuSachKinhDi.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTuSachKinhTe.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTuSachKyNang.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTuSachNauAn.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTuSachTamLy.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTuSachThieuNhi.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTuSachTieuThuyet.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTuSachTruyenNgan.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\obj\Debug\DOAN_QLNS.Lang.langVn.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\obj\Debug\DOAN_QLNS.Lang.langEn.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\obj\Debug\DOAN_QLNS.Properties.Resources.resources
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\obj\Debug\DOAN_QLNS.csproj.GenerateResource.Cache
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\obj\Debug\DOAN_QLNS.exe.licenses
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\obj\Debug\RdlCompile.cache
+D:\GIAO DIỆN - ĐỒ ÁN\DOAN_QLNS - Copy (2)\DOAN_QLNS\obj\Debug\RdlCompile.compiled
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\bin\Debug\DOAN_QLNS.exe.config
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.exe
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.pdb
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\bin\Debug\DOAN_QLNS.exe
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\bin\Debug\DOAN_QLNS.pdb
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.csprojResolveAssemblyReference.cache
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmAdmin.resources
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmCapNhapNCC.resources
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmCapNhatDSNV.resources
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmCapNhatKhachHang.resources
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmCapNhatTheLoaiSach.resources
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmCapNhatNhaXuatBan.resources
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmCapNhatTacGia.resources
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmCapNhatNgayLapPhieu.resources
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmDanhSachPhieuNhap.resources
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmDSPhieuThuTien.resources
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmHoaDonBS.resources
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmPhieuThuTien.resources
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmReportPhieuThuTien.resources
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmThongTinHDBS.resources
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.frm_Report_HDBS.resources
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmBaoCaoNo.resources
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmBaoCaoTon.resources
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmCapNhapPhieuNhapSach.resources
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmChangePassword.resources
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmKhachHang.resources
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmLapPhieuNhap.resources
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmLogin.resources
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmManHinhMoDau.resources
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmNhaCungCap.resources
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmNhanVien.resources
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmNhaXuatBan.resources
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmSachDaMua.resources
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTacGia_User.resources
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmThongTinPNS.resources
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmNuoiDayCon.resources
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmSach_KH.resources
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmSach_User.resources
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTacGia_KH.resources
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmThayDoiQuyDinh.resources
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTheLoaiSach.resources
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTuSach.resources
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTuSachCNTT.resources
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTuSachKinhDi.resources
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTuSachKinhTe.resources
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTuSachKyNang.resources
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTuSachNauAn.resources
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTuSachTamLy.resources
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTuSachThieuNhi.resources
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTuSachTieuThuyet.resources
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTuSachTruyenNgan.resources
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.Lang.langVn.resources
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.Lang.langEn.resources
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.Properties.Resources.resources
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.csproj.GenerateResource.Cache
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.exe.licenses
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\RdlCompile.cache
+D:\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\RdlCompile.compiled
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\bin\Debug\DOAN_QLNS.exe.config
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.exe
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.pdb
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.csprojResolveAssemblyReference.cache
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmAdmin.resources
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmCapNhapNCC.resources
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmCapNhatDSNV.resources
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmCapNhatKhachHang.resources
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmCapNhatTheLoaiSach.resources
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmCapNhatNhaXuatBan.resources
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmCapNhatTacGia.resources
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmCapNhatNgayLapPhieu.resources
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmDanhSachPhieuNhap.resources
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmDSPhieuThuTien.resources
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmHoaDonBS.resources
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmPhieuThuTien.resources
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmReportPhieuThuTien.resources
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmThongTinHDBS.resources
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.frm_Report_HDBS.resources
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmBaoCaoNo.resources
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmBaoCaoTon.resources
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmCapNhapPhieuNhapSach.resources
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmChangePassword.resources
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmKhachHang.resources
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmLapPhieuNhap.resources
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmLogin.resources
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmManHinhMoDau.resources
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmNhaCungCap.resources
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmNhanVien.resources
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmNhaXuatBan.resources
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmSachDaMua.resources
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTacGia_User.resources
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmThongTinPNS.resources
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmNuoiDayCon.resources
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmSach_KH.resources
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmSach_User.resources
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTacGia_KH.resources
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmThayDoiQuyDinh.resources
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTheLoaiSach.resources
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTuSach.resources
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTuSachCNTT.resources
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTuSachKinhDi.resources
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTuSachKinhTe.resources
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTuSachKyNang.resources
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTuSachNauAn.resources
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTuSachTamLy.resources
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTuSachThieuNhi.resources
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTuSachTieuThuyet.resources
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTuSachTruyenNgan.resources
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.Lang.langVn.resources
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.Lang.langEn.resources
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.Properties.Resources.resources
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.csproj.GenerateResource.Cache
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\DOAN_QLNS.exe.licenses
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\RdlCompile.cache
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\obj\Debug\RdlCompile.compiled
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\bin\Debug\DOAN_QLNS.exe
+F:\Nhom02_4101103077_4101103079_4101103050_4101103014\Nhom02\Source\Solution\DOAN_QUANLYDANGNHAP\DOAN_QLNS\bin\Debug\DOAN_QLNS.pdb
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\bin\Debug\DOAN_QLNS.exe.config
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\obj\Debug\DOAN_QLNS.exe
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\obj\Debug\DOAN_QLNS.pdb
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\bin\Debug\DOAN_QLNS.exe
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\bin\Debug\DOAN_QLNS.pdb
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\obj\Debug\DOAN_QLNS.csprojResolveAssemblyReference.cache
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmAdmin.resources
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmCapNhapNCC.resources
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmCapNhatDSNV.resources
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmCapNhatKhachHang.resources
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmCapNhatTheLoaiSach.resources
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmCapNhatNhaXuatBan.resources
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmCapNhatTacGia.resources
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmCapNhatNgayLapPhieu.resources
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmDanhSachPhieuNhap.resources
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmDSPhieuThuTien.resources
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmHoaDonBS.resources
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmPhieuThuTien.resources
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmReportPhieuThuTien.resources
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmThongTinHDBS.resources
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\obj\Debug\DOAN_QLNS.frm_Report_HDBS.resources
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmBaoCaoNo.resources
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmBaoCaoTon.resources
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmCapNhapPhieuNhapSach.resources
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmChangePassword.resources
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmKhachHang.resources
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmLapPhieuNhap.resources
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmLogin.resources
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmManHinhMoDau.resources
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmNhaCungCap.resources
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmNhanVien.resources
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmNhaXuatBan.resources
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmSachDaMua.resources
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTacGia_User.resources
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmThongTinPNS.resources
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmNuoiDayCon.resources
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmSach_KH.resources
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmSach_User.resources
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTacGia_KH.resources
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmThayDoiQuyDinh.resources
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTheLoaiSach.resources
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTuSach.resources
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTuSachCNTT.resources
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTuSachKinhDi.resources
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTuSachKinhTe.resources
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTuSachKyNang.resources
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTuSachNauAn.resources
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTuSachTamLy.resources
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTuSachThieuNhi.resources
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTuSachTieuThuyet.resources
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\obj\Debug\DOAN_QLNS.fmTuSachTruyenNgan.resources
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\obj\Debug\DOAN_QLNS.Lang.langVn.resources
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\obj\Debug\DOAN_QLNS.Lang.langEn.resources
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\obj\Debug\DOAN_QLNS.Properties.Resources.resources
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\obj\Debug\DOAN_QLNS.csproj.GenerateResource.Cache
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\obj\Debug\DOAN_QLNS.exe.licenses
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\obj\Debug\RdlCompile.cache
+F:\Nhóm 6\Nhom06\Source\Solution\Quanlynhasach\DOAN_QLNS\obj\Debug\RdlCompile.compiled
